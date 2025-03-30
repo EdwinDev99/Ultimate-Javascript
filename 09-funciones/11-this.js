@@ -1,5 +1,5 @@
 // this hace referencia un objeto
-// peros si this no se encuentra dentro de un objeto, si no dentro de una funcion hace referencioa al objeto windowm o global,
+// peros si this no se encuentra dentro de un objeto, si no dentro de una funcion hace referencioa al objeto windowm , global,
 
 // pero si usamos la palabra reservada de new hace referencia al objeto que sera creado
 

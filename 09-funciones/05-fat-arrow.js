@@ -1,5 +1,5 @@
 //fat arrow function
-//no tienen Argumentos
+//no tienen ARGUMENTS
 //Ni super Ni this
 
 const suma = (a, b) => {

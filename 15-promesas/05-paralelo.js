@@ -12,7 +12,7 @@ const p3 = new Promise((res, sej) => {
 //   .then((valores) => console.log("rece", valores))
 //   .catch((e) => console.log("error en rece", e));
 
-// Promise.any([p1, p2, p3]) //nos resuelve la primera promesa resuelta
+// Promise.any([p1, p2, p3]) //nos resuelve la primera promesa resuelta sin inportar que  la primera fuera rechazada ,continua
 //   .then((valores) => console.log({ valores }))
 //   .catch((e) => console.log({ e }));
 
