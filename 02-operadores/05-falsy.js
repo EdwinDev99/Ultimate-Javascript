@@ -15,7 +15,7 @@ function fn1() {
 }
 
 function fn2() {
-  console.log("soy funcion ");
+  console.log("soy funcion 2 ");
   return true;
 }
 

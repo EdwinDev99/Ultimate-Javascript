@@ -5,4 +5,4 @@ do {
     console.log("numero par", i);
   }
   i++;
-} while (i < 2); // en el do while cambiar el orden la cndicion es al final ejecuta codigo y depues la condicion !
+} while (i < 2); // en el do while cambiar el orden la condicion es al final ejecuta codigo y depues la condicion !

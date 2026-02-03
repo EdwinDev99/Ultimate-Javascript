@@ -5,7 +5,7 @@ let sucrito = true;
 
 // console.log(true && true);
 // console.log(false && true);
-console.log("operador and", mayor && sucrito);
+console.log("operador and", mayor && sucrito); //solo basta tener uno false para que sea false
 
 // OR ||
 

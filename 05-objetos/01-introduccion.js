@@ -10,6 +10,6 @@ let user = {
     console.log("recupenado clave");
   },
 };
-// al manejar esto etitar agregar etc se le llava programacion oriendad objetos
+// al manejar esto editar agregar etc se le llava programacion oriendad objetos
 //o en espanol poo
 //on en ingles oop

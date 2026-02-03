@@ -6,5 +6,5 @@ if (edad > 17) {
 } else if (edad > 13) {
   console.log("nesecita compania de sus padres");
 } else {
-  console.log("es menor de endad no puede ingresar");
+  console.log("es menor de edad no puede ingresar");
 }

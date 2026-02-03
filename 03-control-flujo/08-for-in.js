@@ -8,4 +8,4 @@ for (let prop in user) {
   console.log(prop, user[prop]);
 }
 
-//tambien lo podemos interar copn for in los arreglos pero es mejor con for of 
+//tambien lo podemos interar con for in los arreglos pero es mejor con for of

@@ -14,7 +14,7 @@ delete user.guardar;
 console.log(user);
 
 //const user1 = Object.freeze({ id: 1 });
-// en caso que no queramos no que sew puedan cambiar las propiedades ni valores usamos el object.freeze
+// en caso que no queramos no que se puedan cambiar las propiedades ni valores usamos el object.freeze
 const user1 = Object.seal({ id: 1 }); // sin embargo queremos que sus propiedades este fijas pero que sus valores si puedan cambiar usamos object.seal
 
 user1.name = "nico";

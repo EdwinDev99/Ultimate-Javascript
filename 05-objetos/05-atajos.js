@@ -2,10 +2,10 @@ let obj = {};
 let obj2 = new Object();
 
 /**
- * new Array()
- * new String()
- * new boolean()
- * new Number ()
+ * new Array() []
+ * new String() ''
+ * new boolean()true false
+ * new Number () 12
  */
 
 function Usuario() {
